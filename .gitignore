@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variable files
+.env
+
+# VS Code and IDE config
+.vscode/
+.idea/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
